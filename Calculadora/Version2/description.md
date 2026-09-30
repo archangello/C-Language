@@ -1,4 +1,4 @@
-## Calculadora - Version1
+## Calculadora - Version2
 Essa versão da calculadora em C irá funcionar lendo um arquivo chamado "number.txt", no qual existirão 3 linhas :
   - A primeira linha, a qual contém um valor;
   - A segunda linha que tem outro valor;
